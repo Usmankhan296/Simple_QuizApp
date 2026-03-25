@@ -5,5 +5,5 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 https://usmankhan296.github.io/Simple_QuizApp/
 
 ![Quiz App Screenshot](screenshot1.png)
-![Quiz App Screenshot](screenshot2.png)
-![Quiz App Screenshot](screenshot3.png)
+![Quiz App Screenshot](Screenshot2.png)
+![Quiz App Screenshot](Screenshot3.png)
