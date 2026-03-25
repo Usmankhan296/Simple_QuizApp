@@ -1,0 +1,91 @@
+*{
+    padding:0px;
+    margin: 0;
+    background-color: rgb(121, 85, 155);
+    font-family: sans-serif;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.quizapp{
+    width:500px;
+    background-color: aqua;
+    padding:30px;
+   
+    border-radius: 10px;
+    background-color: white;
+}
+h1{
+    background-color: white;
+    font-family: sans-serif;
+}
+button{
+display: flex;
+width:100%;
+margin-top: 20px;
+padding: 15px;
+background-color: rgb(255, 255, 255);
+font-size: 22px;
+cursor: pointer;
+border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(107, 156, 247);
+    color: white;
+    transition: 0.7s;
+}
+.line{
+    width:100%;
+    background-color: black;
+    height:1px;
+    margin:20px 0px;
+}
+#question{
+    background-color: rgb(231, 236, 236);
+    padding:5px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+#btn{
+    width:100%;
+   
+    display: flex;
+    justify-content: center;
+    color: rgb(250, 247, 247);
+     align-items: center;
+   
+}
+#next{
+     display: flex;
+    justify-content: center;
+    background-color: white;
+  
+      width:40%;
+    
+    
+}
+.width{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    
+}
+.btn:hover{
+    background-color: rgb(68, 115, 247);
+}
+#answer {
+   
+    background-color: white;
+    width:100%;
+    
+}
+ .btn{
+     background-color: rgb(255, 255, 255);
+      display: flex;
+    justify-content: center;
+}
+
